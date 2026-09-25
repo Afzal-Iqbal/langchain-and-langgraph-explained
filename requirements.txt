@@ -1,0 +1,17 @@
+# LangChain core and community
+langchain>=0.2.14
+langchain-core>=0.2.35
+langchain-community>=0.2.12
+
+# Model providers (choose whichever you use)
+langchain-openai>=0.1.22
+langchain-google-genai>=1.0.8
+
+# LangGraph for cyclical & stateful workflows
+langgraph>=0.2.14
+langgraph-checkpoint>=1.0.9
+
+# Utility and environment management
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+colorama>=0.4.6
